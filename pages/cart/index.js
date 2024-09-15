@@ -59,7 +59,7 @@ const Cart = () => {
               Your shopping cart is empty.
             </h2>
             <p className="mt-1 text-xl">
-              Check out our awesome plants{' '}
+              Check out our awesome coffees{' '}
               <Link href="/">
                 <a className="text-red-500 underline">here!</a>
               </Link>
