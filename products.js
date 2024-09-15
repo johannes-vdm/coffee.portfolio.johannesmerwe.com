@@ -47,73 +47,7 @@ const products = [
     Bean There's Blend 44 combines their very popular Ethiopia Sidamo, and one of our favourites, their Burundi Kayanza. The marriage of these two wonderful coffees yields everything you might want in a bold yet balanced coffee, suitable for manual brewing or espresso. We particularly enjoyed it in plungers and moka pots.
     
     You'll find lots of berry flavours from strawberry to blueberries in the cup depending on your brew method, and occasionally we also found a subtle hint of orange coming through. This is only enhanced by a wonderful honey/caramel sweetness, with the little bit of tanginess creating a raw honey effect to our palates. Juicy and full-bodied, this blend is really a sensational every day drinking coffee that we'd highly recommend trying!`,
-  },
-  {
-    id: 'price_1JAEAjEy9j6mAC9e1jK4nxds',
-    name: 'Alocasia Zebrina',
-    price: 2995,
-    currency: 'USD',
-    image: '/plants/alocasia-zebrina.png',
-    rating: {
-      count: 104,
-      rate: 4,
-    },
-  },
-  {
-    id: 'price_1JAEBeEy9j6mAC9ewOgehqP6',
-    name: 'Cactus Euphorbia (L)',
-    price: 4995,
-    currency: 'USD',
-    image: '/plants/euphorbia.png',
-    rating: {
-      count: 213,
-      rate: 5,
-    },
-  },
-  {
-    id: 'price_1JAEBxEy9j6mAC9eJFypGxjc',
-    name: 'Calathea Orbifolia',
-    price: 2995,
-    currency: 'USD',
-    image: '/plants/calathea-orbifolia.png',
-    rating: {
-      count: 78,
-      rate: 4,
-    },
-  },
-  {
-    id: 'price_1JAECJEy9j6mAC9epK9RoNwV',
-    name: 'Calathea Medallion',
-    price: 2995,
-    currency: 'USD',
-    image: '/plants/calathea-medallion.png',
-    rating: {
-      count: 89,
-      rate: 5,
-    },
-  },
-  {
-    id: 'price_1JAECWEy9j6mAC9eapjaRm9M',
-    name: 'Calathea Ornata',
-    price: 2995,
-    currency: 'USD',
-    image: '/plants/calathea-ornata.png',
-    rating: {
-      count: 271,
-      rate: 5,
-    },
-  },
-  {
-    id: 'price_1JAECpEy9j6mAC9etXk35nRL',
-    name: 'Zamioculcas (L)',
-    price: 3995,
-    currency: 'USD',
-    image: '/plants/zamioculcas.png',
-    rating: {
-      count: 78,
-      rate: 4,
-    },
-  },
+  }
 ];
 
 export default products;
